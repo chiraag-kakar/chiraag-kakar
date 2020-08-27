@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning: **Django**
 - 👯 I’m looking to collaborate on: **FUND**  [[View Repo]](https://github.com/chiraag-kakar/FUND)
 
+![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&hide=stars&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact)
+
 <!--
 **chiraag-kakar/chiraag-kakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

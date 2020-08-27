@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Django, Flask and PostgreSQL
 - 👯 I’m looking to collaborate on: [FUND](https://github.com/chiraag-kakar/FUND)
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=dark)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact)
 
 ## Some of the projects I have recently worked on 😇:

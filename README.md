@@ -1,8 +1,11 @@
 ### Hi there, I'm Chiraag 👋
+
 - 🔭 I’m currently working on my project [My-Django-Blog](https://github.com/chiraag-kakar/My-Django-Blog) & [PyAudi](https://github.com/chiraag-kakar/PyAudi)
-- 📫 How to reach me: [Linkedin](https://linkedin.com/in/chiraag-kakar)
+- 📫 How to reach me: [Linkedin](https://linkedin.com/in/chiraag-kakar) 
 - 🌱 I’m currently learning: Django, Flask and PostgreSQL
 - 👯 I’m looking to collaborate on: [FUND](https://github.com/chiraag-kakar/FUND)
+- 💬 How to follow me: ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F0212Chiraag)
+
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark)

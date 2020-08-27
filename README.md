@@ -7,8 +7,7 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact)
 
-😇  In
-## Some of the projects I have recently worked on :
+## Some of the projects I have recently worked on 😇:
 <a href="https://github.com/chiraag-kakar/FUND">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dark" />
 </a>

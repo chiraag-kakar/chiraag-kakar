@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: [FUND](https://github.com/chiraag-kakar/FUND)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&javascript=true&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark)
 
 ## Some of the projects I have recently worked on 😇:
 <a href="https://github.com/chiraag-kakar/FUND">

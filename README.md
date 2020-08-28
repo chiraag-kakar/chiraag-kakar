@@ -1,5 +1,4 @@
 ### Hi there, I'm Chiraag 👋
-<center>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="left" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -12,7 +11,6 @@
 <a href="https://facebook.com/0212Chiraag">
   <img align="left" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-</center>
 
 
 - 🔭 I’m currently working on my projects [My-Django-Blog](https://github.com/chiraag-kakar/My-Django-Blog) & [PyAudi](https://github.com/chiraag-kakar/PyAudi)
@@ -35,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/covid19-OWID">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PSA&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dracula&layout=compact" />
 </a>
 
 

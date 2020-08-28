@@ -8,7 +8,7 @@
 
 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&theme=dark)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark)
 
 ## Some of the projects I have recently worked on 😇:

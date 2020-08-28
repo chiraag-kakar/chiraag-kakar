@@ -8,7 +8,7 @@
 
 
 <a href="#">
-  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,issues&show_icons=true&layout=compact&theme=dark" />
+  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&layout=compact&theme=dark" />
 </a>
 <a href="#">
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />

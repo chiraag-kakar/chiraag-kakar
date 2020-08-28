@@ -34,10 +34,10 @@
 
 ## Some of the projects I have recently worked on 😇:
 <a href="https://github.com/chiraag-kakar/FUND">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/PSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PSA&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PSA&theme=dark&layout=compact" />
 </a>
 
 

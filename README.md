@@ -7,10 +7,10 @@
 - 💬 How to follow me: [Twitter](https://twitter.com/0212Chiraag) | [Instagram](https://instagram.com/0212Chiraag)
 
 
-<a href="#">
+<a>
   <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&layout=compact&theme=dark" />
 </a>
-<a href="#">
+<a>
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />
 </a>
 

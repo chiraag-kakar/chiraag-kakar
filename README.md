@@ -4,7 +4,8 @@
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/chiraag-kakar) 
 - 🌱 I’m currently learning: Django, Flask and PostgreSQL
 - 👯 I’m looking to collaborate on: [FUND](https://github.com/chiraag-kakar/FUND)
-- 💬 How to follow me: ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F0212Chiraag)
+- 💬 How to follow me: [Twitter](twitter.com/0212Chiraag) [Instagram](instagram.com/0212Chiraag)
+
 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=stars,contribs,issues&show_icons=true&theme=dark)

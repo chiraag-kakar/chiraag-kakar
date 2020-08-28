@@ -1,21 +1,18 @@
 ### Hi there, I'm Chiraag 👋
 <a href="https://linkedin.com/in/chiraag-kakar">
-  <img align="left" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://instagram.com/0212Chiraag">
-  <img align="left" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/0212Chiraag">
-  <img align="left" alt="Chiraag Kakar - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="right" alt="Chiraag Kakar - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://facebook.com/0212Chiraag">
-  <img align="left" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+  <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-
-
-
-
-
+<br/>
+<br/>
 
 
 - 🔭 I’m currently working on my projects [My-Django-Blog](https://github.com/chiraag-kakar/My-Django-Blog) & [PyAudi](https://github.com/chiraag-kakar/PyAudi)

@@ -25,9 +25,11 @@
 <a>
   <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&layout=compact&theme=dark" />
 </a>
+<!--
 <a>
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />
 </a>
+-->
 
 
 ## Some of the projects I have recently worked on 😇:

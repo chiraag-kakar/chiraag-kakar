@@ -71,7 +71,7 @@
 <a href="https://github.com/chiraag-kakar/covid19-OWID">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dark&layout=compact" />
 </a>
-<p align="center">😃Hit that <mark style="background-color: lightgrey">Star</mark> button to show some ❤️ if you liked the repo.</p>
+<p align="center">😃Hit that <code>Star</code> button to show some ❤️ if you liked the repo.</p>
 <!--
 <a>
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />

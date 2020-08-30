@@ -1,4 +1,3 @@
-                                      😃Hit that ⭐ button to show some ❤️ if you liked the repo.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
 
 <a href="https://linkedin.com/in/chiraag-kakar">
@@ -73,7 +72,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dark&layout=compact" />
 </a>
 
-
+                                😃Hit that ⭐ button to show some ❤️ if you liked the repo.
 <!--
 <a>
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />

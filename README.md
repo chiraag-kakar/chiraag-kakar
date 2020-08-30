@@ -73,9 +73,6 @@
 </a>
 
 
-
-
-<p align="center">😃Hit that <code><b>Star</b></code> button to show some ❤️ if you liked the repo.</p>
 <!--
 <a>
   <img alt="Top Langs"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraag-kakar&layout=compact&theme=dark" />
@@ -96,4 +93,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">😃Hit that <code><b>Star</b></code> button to show some ❤️ if you liked the repo.</p>
 -->

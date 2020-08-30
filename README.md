@@ -67,10 +67,10 @@
 
 ## Some of the projects I have recently worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/FUND">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/covid19-OWID">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dark&layout=compact" />
 </a>
 
 

@@ -66,7 +66,7 @@
 
 ## Some of the projects I have recently worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark" />
 </a>
 
 <a href="https://github.com/chiraag-kakar/FUND">

@@ -66,16 +66,26 @@
 
 ## Some of the projects I have recently worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark&layout=compact" />
 </a>
 
-<a href="https://github.com/chiraag-kakar/FUND">
+<a href="https://github.com/chiraag-kakar/My-Django-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=FUND&theme=dark&layout=compact" />
 </a>
 
-<a href="https://github.com/chiraag-kakar/covid19-OWID">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=covid19-OWID&theme=dark&layout=compact" />
+<a href="https://github.com/chiraag-kakar/Netclone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dark&layout=compact" />
 </a>
+
+<a href="https://github.com/chiraag-kakar/RailsBlog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=dark&layout=compact" />
+</a>
+
+
+
+
+
+
 
 
 <!--

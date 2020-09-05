@@ -25,7 +25,7 @@
 
 
 <a>
-  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&hide=contribs,issues&show_icons=true&layout=compact&theme=dark" />
+  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=dark" />
 </a>
 
 ## Skills 🤹

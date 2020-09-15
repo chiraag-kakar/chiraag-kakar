@@ -77,6 +77,13 @@
 <a href="https://github.com/chiraag-kakar/Netclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dark&layout=compact" />
 </a>
+<a href="https://github.com/chiraag-kakar/PyAutomation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/REPP-APP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=REPP-APP&theme=dark&layout=compact" />
+</a>
+
 
 
 

@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
 <p align="center">
- <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="450px"><br><br>
+ <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="250px"><br><br>
 </p>
-
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>

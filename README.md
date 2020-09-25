@@ -20,8 +20,8 @@
 <h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
 
 
--  I’m currently learning: **React, Redux, Django, & PostgreSQL**
--  I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)**
+-  *I’m currently learning       : **React, Redux, Django, & PostgreSQL** 
+-  *I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)**
 <a>
   <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=dark" />
 </a>

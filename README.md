@@ -16,8 +16,6 @@
 </a>
 <br/>
 <br/>
-
-
 <h1 align="center">Hi 👋, I'm Chiraag Kakar</h1>
 
 

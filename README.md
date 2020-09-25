@@ -2,6 +2,7 @@
 <p align="center">
  <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
+<h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -16,14 +17,12 @@
 </a>
 <br/>
 <br/>
-<h1 align="center">Hi 👋, I'm Chiraag Kakar</h1>
+<h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
 
 
-- 🔭 I’m currently working on my projects [My-Django-Blog](https://github.com/chiraag-kakar/My-Django-Blog) & [PyAudi](https://github.com/chiraag-kakar/PyAudi)
-- 🌱 I’m currently learning: Django, Flask and PostgreSQL
-- 👯 I’m looking to collaborate on: [FUND](https://github.com/chiraag-kakar/FUND)
-
-
+<!-- 🔭 I’m currently working on my projects [My-Django-Blog](https://github.com/chiraag-kakar/My-Django-Blog) & [PyAudi](https://github.com/chiraag-kakar/PyAudi)-->
+- 🌱 I’m currently learning: **React, Redux, Django, & PostgreSQL**
+- 👯 I’m looking to collaborate on: **[FUND]**(https://github.com/chiraag-kakar/FUND) & **[Crack-Buzz]**(https://github.com/chiraag-kakar/Crack-Buzz)
 <a>
   <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=dark" />
 </a>

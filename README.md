@@ -2,7 +2,7 @@
 <p align="center">
  <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
-<h3 align="right">Connect with me :</h3>
+<h3 align="right"><i>Connect with me :</i></h3>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -17,16 +17,16 @@
 </a>
 <br/>
 <br/>
-<h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
+<h2 align="center"><i>Hi 👋, I'm Chiraag Kakar</i></h1>
 
 
--  *I’m currently learning       : **React, Redux, Django, & PostgreSQL** 
--  *I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)**
+-  *I’m currently learning       : **React, Redux, Django, & PostgreSQL***
+-  *I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)***
 <a>
   <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=dark" />
 </a>
 
-## Skills 🤹
+## *Skills 🤹*
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -62,7 +62,7 @@
  </p>
 
 
-## Some of the projects I have recently worked on 👨‍💻:
+## *Some of the projects I have recently worked on 👨‍💻:*
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark&layout=compact" />
 </a>

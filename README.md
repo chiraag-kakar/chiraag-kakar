@@ -18,7 +18,8 @@
 <br/>
 <br/>
 <h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
-<hr>
+
+
 -  I’m currently learning: **React, Redux, Django, & PostgreSQL**
 -  I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)**
 <a>

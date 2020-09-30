@@ -33,7 +33,7 @@ const skills =
   
   ide       :[VS Code, PyCharm, Jupyter Notebook, Android Studio, Cloud 9, Paiza Cloud IDE, Eclipse],
   
-  libraries :[jQuery, Three.js, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
+  libraries :[JQuery, Three.js, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   
   frameworks:[Bootsrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
   

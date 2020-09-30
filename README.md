@@ -23,7 +23,7 @@
 -  *I’m currently learning       : **React, Redux, Django, & PostgreSQL***
 -  *I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)***
 <a>
-  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=dark" />
+  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=graywhite" />
 </a>
 
 
@@ -65,22 +65,22 @@
 
 ## *Some of the projects I have recently worked on 👨‍💻:*
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=graywhite&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/My-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=graywhite&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/RailsBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=graywhite&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/Netclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=graywhite&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/PyAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=graywhite&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/REPP-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=REPP-APP&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=REPP-APP&theme=graywhite&layout=compact" />
 </a>
 
 

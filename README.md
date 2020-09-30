@@ -32,8 +32,9 @@
 | *Property* 	| *Data* 	|
 |-	|-	|
 | ***Languages*** 	| *C, C++, JAVA, Python, HTML, CSS, Javascript* 	|
-| ***IDE*** 	| *VS Code, Android Studio, Cloud 9, Paiza Cloud IDE, Eclipse* 	|
-| ***Frameworks/Libraries*** 	| *React, Ionic, Meteor, NodeJs, Flask, Django* 	|
+| ***IDE*** 	| *VS Code, PyCharm, Jupyter Notebook, Android Studio, Cloud 9, Paiza Cloud IDE, Eclipse* 	|
+| ***Libraries/Tools*** 	| *jQuery, Three.js, Numpy, pandas, sklearn, seaborn, matplotlib, tkinter, Tensorflow* |
+| ***Frameworks*** 	| *Bootstrap, React, Ionic, Futter, Meteor, NodeJs, Flask, Django* 	|
 | ***Databases*** 	| *MySql, Sqlite, MongoDB, PostgreSQL, Firebase*  	|
 | ***Deployment Platforms*** 	| *Firebase, Pythonanywhere, Digital Ocean, surge.sh, Heroku, Github Pages* 	|
 | ***CI/CD*** 	| *Travis CI, CircleCI, Github Workflows* 	|

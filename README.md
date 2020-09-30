@@ -20,8 +20,20 @@
 <h2 align="center"><i>Hi 👋, I'm Chiraag Kakar</i></h1>
 
 
--  *I’m currently learning       : **React, Redux, Django, & PostgreSQL***
--  *I’m looking to collaborate on: **[FUND](https://github.com/chiraag-kakar/FUND)** & **[Crack-Buzz](https://github.com/chiraag-kakar/Crack-Buzz)***
+```js
+const status = { 
+                learning : [React, Redux, Django Signals & PostgreSQL],
+                interests: [Research, Open Source Contribution],
+
+                Developer dev = new Developer(chiraag-kakar);
+                while(dev.isCoding() && dev.isStuck()) {
+                dev.openBrowser();
+                dev.openStackOverFlow();
+                dev.pasteCodeInIde();
+                dev.feelProfessional();
+}
+```
+
 <a>
  <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&theme=vue" />
 </a>

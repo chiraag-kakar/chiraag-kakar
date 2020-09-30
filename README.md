@@ -29,12 +29,12 @@ var status =
 
 const skills = 
 {
-  languages :[c, c++, python, bash, java, html, css, javascript, ruby],
+  languages :[c, cpp, python, bash, java, html, css, javascript, ruby],
   ide       :[VS Code, PyCharm, Jupyter Notebook, Android Studio, Cloud 9, Paiza Cloud IDE, Eclipse],
-  libraries :[jQuery, Three.js, Numpy, pandas, sklearn, seaborn, matplotlib, tkinter, Tensorflow],
+  libraries :[jQuery, Three.js, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   frameworks:[Bootsrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
-  databases :[sqlite3, mysql, postgreSQL, firebase],
-  platforms :[GCP, AWS, Firebase, Heroku, pythonanywhere.com, surge.sh, gh-pages],
+  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere, Surge.sh, Github Pages],
   ci-cd     :[Travis CI, CircleCI, Github Workflows]
 }
 

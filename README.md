@@ -58,7 +58,7 @@ while(dev.isCoding() && dev.isStuck())
 ```
 
 <a>
- <img alt="My Github stats"align="left" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=vue" />
+ <img alt="My Github stats"align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=vue" />
 </a>
 
 

@@ -41,7 +41,7 @@ const skills =
   
   platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
   
-  cicd     :[TravisCI, CircleCI, Github Workflows]
+  cicd      :[TravisCI, CircleCI, Github Workflows]
 }
 
 

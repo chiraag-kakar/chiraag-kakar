@@ -46,12 +46,14 @@ const skills =
 
 
 Developer dev = new Developer(chiraag-kakar);
-while(dev.isCoding() && dev.isStuck()) {
-dev.openBrowser();
-dev.openStackOverFlow();
-dev.pasteCodeInIde();
-dev.feelProfessional();
 
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
 
 ```
 

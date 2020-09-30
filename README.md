@@ -31,7 +31,7 @@ const skills =
 {
   languages :[C, Cpp, Python, Bash, Java, Html, Css, Javascript, Ruby],
   
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud IDE, Eclipse],
+  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse],
   
   libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   

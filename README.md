@@ -17,7 +17,7 @@
 </a>
 <br/>
 <br/>
-<h2 align="center"><i>Hi 👋, I'm <a href="#">Chiraag Kakar</a></i></h1>
+<h2 align="center"><i>Hi 👋, I'm <a>Chiraag Kakar</a></i></h1>
 
 
 ```js

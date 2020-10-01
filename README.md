@@ -17,7 +17,7 @@
 </a>
 <br/>
 <br/>
-<h2 align="center"><i>Hi 👋, I'm Chiraag Kakar</i></h1>
+<h2 align="center"><i>Hi 👋, I'm <a href="#">Chiraag Kakar</a></i></h1>
 
 
 ```js
@@ -61,7 +61,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ---
 
-## *Some of the projects I have recently worked on 👨‍💻:*
+## Some of the projects I have recently worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=graywhite&layout=compact" />
 </a>

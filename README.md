@@ -1,10 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
 <p align="center">
- <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right"><i>Connect with me :</i></h3>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://dev.to/chiraag_kakar">
+  <img align="right"  alt="Chiraag Kakar - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
 </a>
 <a href="https://instagram.com/0212Chiraag">
   <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>

@@ -2,7 +2,7 @@
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
-<h3 align="right">Connect with me @</h3>
+<h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -20,10 +20,13 @@
 </a>
 <br/>
 <br/>
-<h2 align="center"><i>Hi 👋, I'm <a>Chiraag Kakar</a></i></h1>
+<h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
 
 
 ```js
+
+document.write("Hello World")
+
 var status = 
 { 
   learning : [React, Redux, Django Signals & PostgreSQL],

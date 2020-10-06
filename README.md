@@ -66,7 +66,7 @@ while(dev.isCoding() && dev.isStuck())
  <!--<img alt="My Github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=vue" />-->
 
 ---
-
+<!--
 ## Some of the projects I have recently worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=graywhite&layout=compact" />
@@ -86,3 +86,4 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/chiraag-kakar/REPP-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=REPP-APP&theme=graywhite&layout=compact" />
 </a>
+-->

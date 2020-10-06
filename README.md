@@ -63,27 +63,38 @@ while(dev.isCoding() && dev.isStuck())
 
 ```
 
- <!--<img alt="My Github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=vue" />-->
+ <img alt="My Github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
 
 ---
-<!--
-## Some of the projects I have recently worked on 👨‍💻:
+
+## Some of the projects I have worked on 👨‍💻:
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=graywhite&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/getjobs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/My-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=graywhite&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/RailsBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=graywhite&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=nord&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/Netclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=graywhite&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/contactme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=contactme&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/PyAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=graywhite&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/REPP-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=REPP-APP&theme=graywhite&layout=compact" />
+<a href="https://github.com/chiraag-kakar/real-estate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=real-estate&theme=yeblue&layout=compact" />
 </a>
--->
+<a href="https://github.com/chiraag-kakar/predict">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=music&theme=omni&layout=compact" />
+</a>

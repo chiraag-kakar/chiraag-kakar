@@ -9,7 +9,7 @@
 <a href="https://dev.to/chiraag_kakar">
   <img align="right"  alt="Chiraag Kakar - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
 </a>
-<a href="https://instagram.com/0212Chiraag">
+<a href="https://instagram.com/0212chiraag">
   <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/0212Chiraag">

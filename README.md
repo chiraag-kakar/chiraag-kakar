@@ -89,8 +89,8 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/chiraag-kakar/PyAutomation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
 </a>
-<a href="https://github.com/chiraag-kakar/real-estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=real-estate&theme=yeblu&layout=compact" />
+<a href="https://github.com/chiraag-kakar/theflaskestate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/predict">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />

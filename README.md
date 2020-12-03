@@ -90,6 +90,7 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/theflaskestate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/predict">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />

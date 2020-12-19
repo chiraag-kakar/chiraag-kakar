@@ -106,7 +106,7 @@ while(dev.isCoding() && dev.isStuck())
 </center>
 
 
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraag-kakar&" alt="saurav-skl" /></p></center>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraag-kakar&layout=compact" alt="saurav-skl" />
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

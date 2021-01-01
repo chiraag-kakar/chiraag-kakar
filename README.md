@@ -80,16 +80,16 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=sharenlearn&theme=ayu-mirage&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/getjobs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/moviebuzz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=moviebuzz&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=moviebuzz&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/My-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/RailsBlog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=nord&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=RailsBlog&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/Netclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Netclone&theme=dracula&layout=compact" />
@@ -98,16 +98,16 @@ while(dev.isCoding() && dev.isStuck())
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=contactme&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/PyAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/scholarscraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=scholarscraper&theme=yeblu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=scholarscraper&theme=slateorange&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/theflaskestate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=midnight-purple&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/todo-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=todo-api&theme=yeblu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=todo-api&theme=midnight-purple&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/predict">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />

@@ -76,8 +76,14 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/chiraag-kakar/Crack-Buzz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=Crack-Buzz&theme=ayu-mirage&layout=compact" />
 </a>
+<a href="https://github.com/chiraag-kakar/sharenlearn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=sharenlearn&theme=ayu-mirage&layout=compact" />
+</a>
 <a href="https://github.com/chiraag-kakar/getjobs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=getjobs&theme=ayu-mirage&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/moviebuzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=moviebuzz&theme=nord&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/My-Django-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=My-Django-Blog&theme=nord&layout=compact" />
@@ -94,8 +100,14 @@ while(dev.isCoding() && dev.isStuck())
 <a href="https://github.com/chiraag-kakar/PyAutomation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=PyAutomation&theme=yeblu&layout=compact" />
 </a>
+<a href="https://github.com/chiraag-kakar/scholarscraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=scholarscraper&theme=yeblu&layout=compact" />
+</a>
 <a href="https://github.com/chiraag-kakar/theflaskestate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=theflaskestate&theme=yeblu&layout=compact" />
+</a>
+<a href="https://github.com/chiraag-kakar/todo-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=todo-api&theme=yeblu&layout=compact" />
 </a>
 <a href="https://github.com/chiraag-kakar/predict">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiraag-kakar&repo=predict&theme=omni&layout=compact" />

@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraag-kakar" alt="chiraag-kakar" /> </p>
+
+<!--
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
@@ -21,8 +23,6 @@
 <a href="https://facebook.com/0212Chiraag">
   <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-
-
 <br/>
 <br/>
 <h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
@@ -65,10 +65,13 @@ while(dev.isCoding() && dev.isStuck())
   dev.pasteCodeInIde();
   dev.feelProfessional();
 }
+-->
+
 
 ```
-
+<!--
  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
+-->
 
 ---
 <h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
@@ -119,9 +122,8 @@ while(dev.isCoding() && dev.isStuck())
 
 
 ---
-
+<!--
 <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraag-kakar&layout=compact" alt="saurav-skl" />
-
-
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
+-->

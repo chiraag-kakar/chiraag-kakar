@@ -34,7 +34,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [React, Redux, Django Signals & PostgreSQL],
+  learning : [Golang, React, Redux, Django Signals & PostgreSQL],
   interests: [Research, Open Source Contribution]
 }
 

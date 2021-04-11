@@ -11,9 +11,9 @@
 <a href="https://dev.to/chiraag_kakar">
   <img align="right"  alt="Chiraag Kakar - DEV" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="22px">
 </a>
-<a href="https://www.codechef.com/users/chiraag_kakar">
+<!--<a href="">
   <img align="right" alt="Chiraag Kakar - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
-</a>
+</a>-->
 <a href="https://instagram.com/0212chiraag">
   <img align="right" alt="Chiraag Kakar - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>

@@ -46,13 +46,13 @@ const skills =
   
   libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
   
-  frameworks:[Bootstrap, React, Ionic, Flutter, Meteor, Node, Django, Flask],
+  frameworks:[Bootstrap, React, Ionic, Meteor, Node, Django, Flask],
   
   databases :[Sqlite3, MySql, PostgreSQL, Firebase],
   
   platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
   
-  cicd      :[TravisCI, CircleCI, Github Workflows]
+  cicd      :[TravisCI, CircleCI, Github Actions]
 }
 
 

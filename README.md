@@ -42,10 +42,6 @@ const skills =
 {
   languages :[C, Cpp, Python, Bash, Java, Javascript, Ruby],
   
-<!--   ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse], -->
-  
-<!--   libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow], -->
-  
   frameworks:[ReactJs, Flutter, Flask, FastAPI, Django, ExpressJs],
   
   databases :[Sqlite3, MySql, PostgreSQL, Firebase],

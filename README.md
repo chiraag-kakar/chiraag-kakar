@@ -34,23 +34,23 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang, React, Redux, Django Signals & PostgreSQL],
+  learning : [Golang, Typescript],
   interests: [Research, Open Source Contribution]
 }
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Bash, Java, Html, Css, Javascript, Ruby],
+  languages :[C, Cpp, Python, Bash, Java, Javascript, Ruby],
   
-  ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse],
+<!--   ide       :[Vs Code, PyCharm, Jupyter Notebook, Android Studio, Cloud-9, Paiza Cloud-IDE, Eclipse], -->
   
-  libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow],
+<!--   libraries :[Jquery, ThreeJs, Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter, Tensorflow], -->
   
-  frameworks:[Bootstrap, React, Ionic, Meteor, Node, Django, Flask],
+  frameworks:[ReactJs, Flutter, Flask, FastAPI, Django, ExpressJs],
   
   databases :[Sqlite3, MySql, PostgreSQL, Firebase],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Pythonanywhere, Surge, Github Pages],
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere],
   
   cicd      :[TravisCI, CircleCI, Github Actions]
 }

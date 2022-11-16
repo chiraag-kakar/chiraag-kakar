@@ -64,14 +64,14 @@ while(dev.isCoding() && dev.isStuck())
 
 
 ```
-
- <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
+<!-- 
+ <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/> -->
 
 
 ---
 
 
-<h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
+<!-- <h2 align="center">Some of the projects I have worked on 👨‍💻:</h2>
 
 
 <center>
@@ -126,3 +126,4 @@ while(dev.isCoding() && dev.isStuck())
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
+ -->

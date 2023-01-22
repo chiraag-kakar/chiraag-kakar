@@ -34,21 +34,21 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [Golang, Typescript],
-  interests: [Research, Open Source Contribution]
+  learning : [Java(Spring Boot), Go],
+  interests: [Research, Open Source]
 }
 
 const skills = 
 {
-  languages :[C, Cpp, Python, Bash, Java, Javascript, Ruby],
+  languages :[Cpp, Python, Javascript],
   
-  frameworks:[ReactJs, Flutter, Flask, FastAPI, Django, ExpressJs],
+  frameworks:[VueJs(Quasar), Flutter, ExpressJs, LambdaJs, Flask, FastAPI, Django],
   
-  databases :[Sqlite3, MySql, PostgreSQL, Firebase],
+  libraries: [ReactJs]
   
-  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere],
+  databases :[MySql, PostgreSQL, Firebase, DynamoDb],
   
-  cicd      :[TravisCI, CircleCI, Github Actions]
+  platforms :[GCP, AWS, Firebase, Heroku, Pythonanywhere]
 }
 
 
